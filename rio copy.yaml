@@ -1,0 +1,4 @@
+services:
+  foo2:
+    image: nginx
+    net: host
